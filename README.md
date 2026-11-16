@@ -1,10 +1,6 @@
 # Gerenciador de estoque com árvore rubro-negra
 
-Gerenciador de estoque em C++17 com interface gráfica nativa para Windows.
-Os produtos são indexados pelo código em uma árvore rubro-negra, mantendo as
-operações de busca, inserção e remoção em O(log n).
-
-## Interface gráfica
+## Como Rodar
 
 Com `g++` do MinGW, compile e execute:
 
@@ -45,6 +41,3 @@ Campos de texto com vírgula devem ficar entre aspas; aspas dentro desses campos
 são escapadas como `""`. Quantidades devem ser inteiros não negativos e preços
 devem usar ponto como separador decimal. Linhas inválidas e códigos já
 cadastrados são ignorados com aviso; os demais produtos são inseridos na árvore.
-
-Os dados ficam na memória durante a execução. Para carregar um estoque
-novamente, importe o CSV ao iniciar o programa.
