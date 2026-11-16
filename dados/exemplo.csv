@@ -1,0 +1,16 @@
+codigo,nome,categoria,quantidade,preco
+001,Teclado mecânico,"Periféricos, USB",12,249.90
+002,Mouse sem fio,Periféricos,25,79.50
+003,Monitor 24 polegadas,Vídeo,4,899.00
+004,Cabo HDMI 2m,Cabos,40,25.90
+005,Headset gamer,Áudio,7,199.90
+006,Webcam Full HD,Vídeo,3,229.00
+007,Hub USB-C,"Periféricos, USB",15,119.90
+008,SSD 1TB,Armazenamento,9,479.00
+009,Pendrive 64GB,Armazenamento,30,39.90
+010,Notebook 15,Computadores,2,3899.00
+011,Mousepad grande,Acessórios,18,59.90
+012,"Caixa de som ""Bluetooth""",Áudio,5,149.90
+013,Roteador Wi-Fi 6,Rede,6,349.00
+014,Cabo de rede Cat6 5m,Cabos,22,29.90
+015,Suporte para monitor,Acessórios,1,189.90
