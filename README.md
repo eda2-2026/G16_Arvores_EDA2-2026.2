@@ -1,4 +1,4 @@
-# Gerenciador de estoque com árvore rubro-negra
+# Gerenciador de estoque com Árvores
 
 ## Como Rodar
 
