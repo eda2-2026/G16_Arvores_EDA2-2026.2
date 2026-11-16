@@ -1095,8 +1095,8 @@ static LRESULT CALLBACK procedimentoPrincipal(HWND janela, UINT mensagem,
         FillRect(dc, &hero, verde);
         DeleteObject(verde);
         desenharTexto(dc, L"PAINEL DE ESTOQUE", 36, 22, RGB(181, 221, 201), 9, FW_BOLD);
-        desenharTexto(dc, L"Seu estoque, sob controle.", 34, 48, RGB(255, 255, 255), 24, FW_BOLD);
-        desenharTexto(dc, L"Gerencie produtos com rapidez e acompanhe o que precisa de reposicao.",
+        desenharTexto(dc, L"Controle de Estoque fácil.", 34, 48, RGB(255, 255, 255), 24, FW_BOLD);
+        desenharTexto(dc, L"Gerenciador de produtos By Bryan e Pablo.",
                       36, 91, RGB(218, 234, 224), 10);
         const int margem = 34;
         const int espaco = 16;
