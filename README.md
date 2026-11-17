@@ -17,9 +17,9 @@ exporta CSV e salva o estoque automaticamente.
 
 ## Vídeo de apresentação
 
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20apresenta%C3%A7%C3%A3o-red?logo=youtube)](LINK_DO_VIDEO_AQUI)
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20apresenta%C3%A7%C3%A3o-red?logo=youtube)](https://youtu.be/9ZxQndBk9MY)
 
-> Link direto: [LINK_DO_VIDEO_AQUI](LINK_DO_VIDEO_AQUI)
+> Link direto: [LINK_DO_VIDEO_AQUI](https://youtu.be/9ZxQndBk9MY)
 
 ## Screenshots
 
