@@ -21,14 +21,6 @@ exporta CSV e salva o estoque automaticamente.
 
 > Link direto: [LINK_DO_VIDEO_AQUI](https://youtu.be/9ZxQndBk9MY)
 
-## Screenshots
-
-> Coloque as imagens em `docs/` e ajuste os caminhos abaixo.
-
-| Painel principal                         | Visualização da árvore               |
-| ---------------------------------------- | ------------------------------------ |
-| ![Painel principal](docs/painel.png)     | ![Árvore](docs/arvore.png)           |
-
 ## Funcionalidades
 
 - Cadastrar, consultar, editar (nome, categoria, quantidade e preço) e remover produtos.
