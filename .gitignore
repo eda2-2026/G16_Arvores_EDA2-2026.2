@@ -1,0 +1,15 @@
+# Executáveis e objetos gerados
+*.exe
+*.o
+*.obj
+build/
+
+# Dados locais gerados pelo programa
+estoque.csv
+estoque.csv.bak
+*.csv.tmp
+teste_ida_e_volta.csv
+
+# Editores
+.vscode/
+.idea/
